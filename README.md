@@ -46,3 +46,8 @@
 #### Model Selection and Hyperparameter Tuning
 #### Infrastructure Optimization
 #### Data Augmentation
+
+### Contributors
+#### Amy Ou
+#### Jessica Hin
+#### Katie Mears
